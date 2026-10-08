@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.zdorovie.health",
+    "sha256_cert_fingerprints": ["31:BE:8F:4A:37:79:99:3B:7A:1D:5B:A7:13:26:98:0D:89:71:03:6F:EC:37:0B:A5:80:86:E1:83:E7:BE:D2:BE"]
+  }
+}]
